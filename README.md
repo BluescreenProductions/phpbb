@@ -1,3 +1,11 @@
+## NOTE
+
+This forked repo is not an official phpBB repository. For the original repository click [here](https://github.com/phpbb/phpbb)
+
+In this repository, you find a version of phpBB3 that can be included into an other existing php-based web server with its own user login. Therefore, regular (non-moderator) users see only a few parts of the original phpBB3 forum. Essentially, regular users only see the forum part.
+
+Below is the original README file.
+
 [![phpBB](https://www.phpbb.com/theme/images/logos/blue/160x52.png)](http://www.phpbb.com)
 
 ## ABOUT
